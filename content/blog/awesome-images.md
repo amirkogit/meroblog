@@ -36,5 +36,11 @@ If you try this…
   }
 },
 ```
+```java
+void main()
+{
+  cout << "Hello world";
+}
+```
 
 …everything works as it should.
